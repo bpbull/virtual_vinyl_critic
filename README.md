@@ -1,4 +1,4 @@
-# Albums for You - An Album Recommendation System for Spotify
+# Virtual Vinyl Critic - An Album Rating Predictor from Pitchfork and Spotify data
 
 ## Business Case and Project Summary
 
