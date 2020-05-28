@@ -1,4 +1,4 @@
-# Virtual Vinyl Critic - An Album Score Predictor from Pitchfork and Spotify data
+# Virtual Vinyl Critic - An Album Rating Predictor from Pitchfork and Spotify data
 
 ![pose_judges.png](https://github.com/bpbull/capstone/blob/master/capstone_images/pose_judges.png)
 
@@ -37,7 +37,7 @@ I tested 17 different models including linear regressors models, polynomial feat
 
 As you can see, the best model was a linear regression model not using polynomial features. This model has an rmse of 0.99 which is slightly better than the baseline. The feature importances or coefficient sizes are displayed in the graph below:
 
-![feature_imp.png](https://github.com/bpbull/capstone/blob/master/capstone_images/feature_imp.png)
+![feat_imp.png](https://github.com/bpbull/capstone/blob/master/capstone_images/feat_imp.png)
 
 As you can see, some interesting genres are jazz and experimental rock which are reviewed more positively while the pop/R&B genre is rated more poorly. The most negative impacts on the pitchfork score is danceability and key 4 (minor key),  and the most poitive impact are key 2 (major key) and high valence. This is interesting as minor keys tend to be thought of as producing more solemn or somber sounds while major keys are heard as more jovial and happy. This means that Pitchfork tends to prefer music with a happier tonality. This is further proved by the valence (how happy a track sounds) feature having a positive influence on the Pitchfork score.
 
