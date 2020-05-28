@@ -1,4 +1,4 @@
-# Virtual Vinyl Critic - An Album Rating Predictor from Pitchfork and Spotify data
+# Virtual Vinyl Critic - Predicting Album Review Scores from Pitchfork and Spotify Data
 
 ![pose_judges.png](https://github.com/bpbull/capstone/blob/master/capstone_images/pose_judges.png)
 
