@@ -47,13 +47,16 @@ As you can see, some interesting genres are jazz and experimental rock which are
 After generating the aforementioned model, I would like to provide a platform for lesser known artists to see how their album would fair if rated by Pitchfork. I will do this by building a front end that can take in a spotify album and output a predicted Pitchfork score. The next part of this project I would like to explore is to build a content based recommendation system with a user interface that recommends albums based on predicted Pitchfork score and album similarity. Create playlist with 5 albums most similar to user input of artist, album, or song.
 
 
-### Code and Contact Info:
+### Code, Contact Info, and Presentation link:
 
 Github:
 https://github.com/bpbull/capstone
 
 LinkedIn:
 https://www.linkedin.com/in/brendan-bullivant-82bb5215b/
+
+Presentation:
+https://docs.google.com/presentation/d/1rH2iSZHR6FRYT4J6P499jjSV651UOMmowxN7Z1WXAFk/edit?usp=sharing
 
 
 ## Sources
